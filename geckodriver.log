@@ -1,0 +1,1326 @@
+1584878098360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileTquCP9"
+1584878098854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584878098855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584878098855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584878098855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584878100773	Marionette	INFO	Listening on port 49289
+1584878100978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 8596, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8596, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18628, Chrome_ChildThread] W[Child 5680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5680, Chr[Parent 8596, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2700, Chr1584878396884	Marionette	INFO	Stopped listening on port 49289
+[GPU 13648, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+or: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8240
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/s
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+rc/chrome/common/ipc
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+_channel_win.cc, line 341
+[Parent 18796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16800,1584878394637	Marionette	INFO	Stopped listening on port 49766
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4752, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584878401206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileItj1vE"
+1584878401593	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584878401594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584878401594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584878401594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584878403187	Marionette	INFO	Listening on port 49917
+1584878403218	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js line 329 > scriptElement, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js line 329 > scriptElement, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 16780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 1392, Chrome_ChildThread] W[Child 19112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19112[Parent 16780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10652, Chrome_Chil1584878463484	Marionette	INFO	Stopped listening on port 49917
+[GPU 12460,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584878467116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofilesPuR5T"
+1584878467499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584878467499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584878467500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584878467500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584878469074	Marionette	INFO	Listening on port 50059
+1584878469128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 17104, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17104, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14700, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 14700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/[iChild 17508,pc/ chroChrome_ChildThreadmium/src/chrome/commo] WARNING: pipe error: 109: fin/ipc_le z:/task_15657067channel50/b_win.cuild/src/ipc/chromium/src/chrome/c, line 341
+common/ipc_channel_win.cc, line 341
+[Child 147[0C0h, 
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+Chrome_ChildThread] WARNIN
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+G: pipe error: 109: file z:/tas1584878517230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileDrSNuz"
+1584878517631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584878517631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584878517631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584878517631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584878519273	Marionette	INFO	Listening on port 50200
+1584878519363	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 18100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 1800[Child 1882, Chrome_ChildThread]04, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1820[Parent 18100, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17008, C1584878732931	Marionette	INFO	Stopped listening on port 50200
+[GPU 5728,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+[Parent 2728, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/t1584878734372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584878734373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584878734373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584878734373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584878736124	Marionette	INFO	Listening on port 50546
+1584878736532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 11396[Child 3968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/1584878879280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584878879280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584878879280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584878879280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584878880893	Marionette	INFO	Listening on port 50736
+1584878881363	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 13712, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13712, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18100, Chrome_ChildThr[Child 1460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1460, Chrome_ChildThread] WARNING: pipe e[Parent 13712, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584879225360	Marionette	INFO	Stopped listening on port 50736
+[GPU 2112, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 12988, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 16568, Chrome_ChildThread] [Child 13644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13644, [Parent 12988, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584879226253	Marionette	INFO	Stopped listening on port 50873
+[GPU 18952, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584879230874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofile9LSNMH"
+1584879231253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584879231253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584879231253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584879231253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584879232783	Marionette	INFO	Listening on port 51106
+1584879232887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 14128, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14128, Gecko_IOThread] WARNING: pipe error: 109: file z:/tas1584879278718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584879278718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584879278718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584879278718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584879280373	Marionette	INFO	Listening on port 51264
+1584879280848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 3520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta1584879318712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584879318712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584879318713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584879318713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584879320449	Marionette	INFO	Listening on port 51407
+1584879320889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 8004, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8004, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chro
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+mium/src/chrome/
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+common/[Cihpicl
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d 16524, Chrome_Chil_dThread] WARNING: pipe error: 109: file z:/task_c156hanne5706750/build/srcl_w/
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+ipcin.cc, line 341
+/
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BC,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+chromium/src/chrome/common/ip[c_ch
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+aChild 18156,n Chrnoemel_win.cc, line 341
+[Child 161584879368648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileHBk8xG"
+1584879369074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584879369074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584879369074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584879369074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584879370698	Marionette	INFO	Listening on port 51576
+1584879370768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13780,
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+ Chrome_ChildThread[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7828, Chrome_ChildThrea[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipJavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 17484, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17484, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10772, Chrome_ChildThr[Parent 17484, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12112, Chrome_ChildThread] WARNING: pipe er1584880159033	Marionette	INFO	Stopped listening on port 51739
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14292, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 17740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17740, Chrome_[Parent 1396, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14568, 1584880159762	Marionette	INFO	Stopped listening on port 51940
+[GPU 9784, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584879585080	Marionette	INFO	Listening on port 52143
+1584879585133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 18952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, li[Cne 341
+hild 14144, Chrome_ChildThread] WAR[NING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14144,[Parent 18952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18320,1584880163021	Marionette	INFO	Stopped listening on port 52143
+[GPU 16220, Chr
+###!!! [Child][RunMconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.kicksta.co/js/app.7d9ec4.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Parent 14920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 9760, Chrome_ChildThrea[Child 16316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16316[Parent 14920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5688, 1584880213670	Marionette	INFO	Stopped listening on port 52443
+[GPU 2824, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584880219089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileX6hhoP"
+1584880219485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584880219486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584880219486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584880219486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584880221062	Marionette	INFO	Listening on port 52540
+1584880221105	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 13996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16148, Chrome_ChildThread] WARNING: pipe error: 
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+10
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+9: file z:/task_1565706750/bu
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+ild/src/ipc/chromium/src/chrome/com[Child 8540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8540,[Parent 13996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14392,1584880323989	Marionette	INFO	Stopped listening on port 52540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8908
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584880329180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileRLQC8d"
+1584880329575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584880329575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584880329575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584880329575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584880331149	Marionette	INFO	Listening on port 52690
+1584880331211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 7644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16256, Chrome_Chi
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+ldThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Parent 7644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9420, C[Parent 7644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 981584880479477	Marionette	INFO	Stopped listening on port 52690
+[GPU 6388, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+IZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Child 1552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 
+###!!! [Child][MessageChannel] Error: (msgtype=0x53000D,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Closed channel: cannot send/recv
+
+1552, Chrome_Child
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+Thread] WARNING: 
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+pipe error: 109: file z:/task_1[Parent 6616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12628, Chrome_Ch1584880481430	Marionette	INFO	Stopped listening on port 52852
+[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584880484735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofilewUDOYb"
+1584880485113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584880485113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584880485113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584880485113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584880486712	Marionette	INFO	Listening on port 53003
+1584880486749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 3572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12740[Parent 3572, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11796, Chrom1584880655913	Marionette	INFO	Stopped listening on port 53003
+[GPU 183
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584880659907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofilebFcYhs"
+1584880660290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584880660290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584880660290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584880660291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584880661816	Marionette	INFO	Listening on port 53173
+1584880661925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 18380, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18380, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15920[Parent 18380, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1584880928696	Marionette	INFO	Stopped listening on port 53173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 870
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584880956668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileGsBO2N"
+1584880957570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584880957571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584880957571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584880957571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584880959304	Marionette	INFO	Listening on port 53999
+1584880959799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 14272, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14272, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channe[Child 16176, Chrlome__win.cc, lCine h3ildTh41read]
+ WARNING: pipe error:
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+ 109: file [Chilzd: /6task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16176, C[Parent 14272, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10820,1584881249032	Marionette	INFO	Stopped listening on port 53999
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19308,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584881253937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofilenq2dSf"
+1584881254319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584881254319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584881254320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584881254320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584881255932	Marionette	INFO	Listening on port 54296
+1584881255951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Child 284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9888, Chrome_Child[TChread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9888, Chro[Parent 1464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5276, Ch1584881478949	Marionette	INFO	Stopped listening on port 54296
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584881510690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileWoDPeo"
+1584881511075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584881511075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584881511076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584881511076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584881512741	Marionette	INFO	Listening on port 54858
+1584881512801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 9528, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9528, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Child 11324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11[Parent 9528, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9772, Chr1584883617778	Marionette	INFO	Stopped listening on port 54858
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+U 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1584883621800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileGvHKP6"
+1584883622188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584883622188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584883622188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584883622188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584883623797	Marionette	INFO	Listening on port 56195
+1584883623813	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221584737928024%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 15868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1585032063180	Marionette	INFO	Stopped listening on port 56195
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1585885333824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileLiTrpg"
+1585885372176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofile7m8hu7"
+1585885372538	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585885372633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585885372633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585885372633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585885372633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585885374280	Marionette	INFO	Listening on port 62866
+1585885374318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585885506108	Marionette	INFO	Stopped listening on port 62866
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585885510247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofilejZLqSn"
+1585885510612	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585885510705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585885510705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585885510705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585885510705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585885512350	Marionette	INFO	Listening on port 62990
+1585885512385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1585967302978	Marionette	INFO	Stopped listening on port 62990
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofilewez8Qs"
+1585967298754	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585967298892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585967298893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585967298893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585967298893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585967301133	Marionette	INFO	Listening on port 52572
+1585967301356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Child 10232, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1579288126/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1585967352621	Marionette	INFO	Stopped listening on port 52572
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585967349138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585967349138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585967349139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585967351069	Marionette	INFO	Listening on port 52719
+1585967351288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+[Parent 7084, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1585976311256	Marionette	INFO	Stopped listening on port 52719
+\\Temp\\rust_mozprofileN3e2nN"
+1585976311485	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585976311613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585976311613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585976311613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585976311613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585976313721	Marionette	INFO	Listening on port 56488
+1585976314156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585977139508	Marionette	INFO	Stopped listening on port 56488
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileogCiu2"
+1585976931551	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585976931663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585976931663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585976931663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585976931663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585976933620	Marionette	INFO	Listening on port 56989
+1585976933686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585977142566	Marionette	INFO	Stopped listening on port 56989
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585977138428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585977138428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585977138429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585977138429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585977140606	Marionette	INFO	Listening on port 57123
+1585977140660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1585978442971	Marionette	INFO	Stopped listening on port 57123
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1585978487604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofile6IX5xh"
+1585978488510	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585978488621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585978488621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585978488622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585978488622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1585978490766	Marionette	INFO	Listening on port 58864
+1585978491253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+1585989525848	Marionette	INFO	Stopped listening on port 58864
+1586404079678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileLpG9Qo"
+1586404081842	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586404081987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586404081987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586404081987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586404081987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586404084063	Marionette	INFO	Listening on port 53728
+1586404084453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586408269803	Marionette	INFO	Stopped listening on port 53728
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586408290546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saraf\\AppData\\Local\\Temp\\rust_mozprofileZ37Fi7"
+1586408291512	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586408291623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586408291623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586408291623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586408291623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586408293554	Marionette	INFO	Listening on port 55981
+1586408293694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://js.intercomcdn.com/app.ce7a1245.js, line 1: TypeError: r.body is null
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://js.intercomcdn.com/app.ce7a1245.js, line 1: TypeError: r.body is null
+JavaScript error: https://js.intercomcdn.com/app.ce7a1245.js, line 1: TypeError: r.body is null
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://js.intercomcdn.com/vendor.5f9b43d4.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.gstatic.com/firebasejs/4.5.0/firebase.js, line 329: NS_ERROR_NOT_INITIALIZED: 
+1586426499217	Marionette	INFO	Stopped listening on port 55981
